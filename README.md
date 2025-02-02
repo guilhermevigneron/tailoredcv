@@ -73,7 +73,7 @@ The tool generates two files:
 
 - Python 3.x
 - python-docx library
-- Access to an LLM platform (ChatGPT, Bard, etc.)
+- Access to an LLM platform
 
 ## Files in this Repository
 
