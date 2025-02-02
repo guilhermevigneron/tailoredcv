@@ -4,7 +4,7 @@ A tool that helps you tailor your CV/resume to specific job descriptions using L
 
 ## Features
 
-- Customized prompt for LLM platforms (ChatGPT, Bard, etc.) to optimize CV content
+- Customized prompt for LLM platforms (ChatGPT, Gemini, etc.) to optimize CV content
 - ATS (Applicant Tracking System) optimization
 - Automatic keyword and skill matching with job descriptions
 - Python script to convert plain text to .docx format
