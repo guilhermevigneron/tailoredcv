@@ -1,0 +1,38 @@
+I want to tailor my CV to a specific job description to increase its relevance and compatibility with Applicant Tracking Systems (ATS).
+
+Please act as a professional resume writer and career expert.
+
+Please provide the output in [SPECIFY DESIRED LANGUAGE].
+
+I will provide you with two pieces of text:
+
+My Current CV Text: This is the text of my already optimized CV.
+Job Description Text: This is the text of the job description I am applying for.
+Your task is to revise and tailor my CV text to be a perfect match for the job description. Specifically, please:
+
+Analyze the Job Description: Identify key skills, keywords, responsibilities, and requirements mentioned in the job description.
+Match and Emphasize Relevant Skills and Experiences: In my CV text, highlight and emphasize the skills and experiences that are most relevant to the job description. Ensure these are prominently featured, especially in the summary/profile, skills, and experience sections.
+Incorporate Job Description Keywords: Naturally weave in keywords and phrases from the job description into my CV text where appropriate. Do not just keyword stuff, ensure it reads naturally and professionally.
+Optimize for ATS: Ensure the revised CV text is structured in a clear and ATS-friendly manner. Use standard section headings (e.g., "Summary," "Experience," "Skills," "Education"). Maintain a professional and concise tone.
+Maintain my core information: Do not change the factual information about my education, work history or core skill set, only re-phrase and re-organize to better match the job description.
+Output the FULL REVISED CV TEXT: Please provide the entire revised CV text as your output. I need the complete text, ready to be saved as a document. Maintain clear paragraph breaks and section headings in the text output.
+Please remember to keep the output as plain text, suitable for saving as a .docx file later.
+
+
+--- START of My Current CV Text --- 
+
+[PASTE YOUR CURRENT CV TEXT HERE] 
+
+--- END of My Current CV Text ---
+
+
+--- START of Job Description Text --- 
+
+[PASTE THE JOB DESCRIPTION TEXT HERE] 
+
+--- END of Job Description Text ---
+
+
+After you have revised my CV text, please also summarize the key changes you made and why, so I understand your reasoning.
+
+Thank you!
