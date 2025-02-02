@@ -135,6 +135,3 @@ While the Python script automates the process of tailoring your CV for ATS and a
 - **Impactful Language**: Use strong action verbs and quantify your achievements whenever possible in this section to maximize its impact.
 
 ---
-
-### Final Note:
-The goal of manual refinement is to enhance the visual appeal and readability of your CV for human readers without compromising its ATS compatibility. Subtlety and professionalism are key. Focus on clear structure, consistent styling, and impactful content.
